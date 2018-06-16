@@ -2,7 +2,7 @@
     "title": "Swift Kapsi",
     "publisherName": "Thierry",
     "feedIdentifier": "io.github.SwiftKapsi",
-    "contactURL": "mailto: kapsi@mac.com",
+    "contactURL": "mailto:kapsi@mac.com",
     "formatVersion": "1.0",
     "documents": [
                   {
@@ -18,7 +18,7 @@
                                             "name": "Langues",
                                             "value": "français, anglais"
                                             }
-                                            ]
+                                            ],
                   "publishedDate": "2018-06-16T09:51:00+01:00",
                   "lastUpdatedDate": "2018-06-16T09:51:00+01:00",
                   "thumbnailURL": "IntroToFP/thumbnail.png",
