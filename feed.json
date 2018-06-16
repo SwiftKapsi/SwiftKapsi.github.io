@@ -21,10 +21,10 @@
             ]
             "publishedDate": "2018-06-16T09:51:00+01:00",
             "lastUpdatedDate": "2018-06-16T09:51:00+01:00",
-            "thumbnailURL": "IntroToFP/thumbnail.png",
-            "bannerImageURL": "IntroToFP/bannerImage.png",
+            "thumbnailURL": "/IntroToFP/thumbnail.png",
+            "bannerImageURL": "/IntroToFP/bannerImage.png",
             "previewImageURLs": [
-                "IntroToFP/previewImage.png"
+                "/IntroToFP/previewImage.png"
             ]
         }
     ]
