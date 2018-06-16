@@ -1,0 +1,31 @@
+{
+    "title": "Swift Kapsi",
+    "publisherName": "Thierry",
+    "feedIdentifier": "io.github.SwiftKapsi",
+    "contactURL": "mailto: kapsi@mac.com",
+    "formatVersion": "1.0",
+    "documents": [
+        {
+            "title": "Intro to FP in Swift",
+            "overviewSubtitle": "Learn the basics of Functional Programming and Swift.",
+            "detailSubtitle": "Learn how to use FP concepts in Swift",
+            "description": "Playing with mathematical concepts and learning how to apply them in programming",
+            "contentIdentifier": "io.github.SwiftKapsi.introToFP",
+            "contentVersion": "1.0",
+            "url": "https://SwiftKapsi.github.io/IntroToFP/IntroToFP.playgroundbook.zip",
+            "additionalInformation": [
+                {
+                    "name": "Languages",
+                    "value": "English, French"
+                }
+            ]
+            "publishedDate": "2018-06-16T09:51:00+01:00",
+            "lastUpdatedDate": "2018-06-16T09:51:00+01:00",
+            "thumbnailURL": "IntroToFP/thumbnail.png",
+            "bannerImageURL": "IntroToFP/bannerImage.png",
+            "previewImageURLs": [
+                "IntroToFP/previewImage.png"
+            ]
+        }
+    ]
+}
